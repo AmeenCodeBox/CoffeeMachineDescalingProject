@@ -17,7 +17,7 @@ This system was developed as part of a Software Engineering course project. It s
 - ✅ Three-phase descaling program (filling, soaking, rinsing)
 - ✅ Log system that records key events with timestamps
 - ✅ Display system for user feedback
-- ✅ CLI-based interface (JavaFX GUI optional)
+- ✅ CLI-based interface
 
 ---
 
@@ -31,7 +31,7 @@ This system was developed as part of a Software Engineering course project. It s
 - `LogManager`: Records all events (coffee, descaling, refills)
 - `Display`: Displays system status and user messages
 
-> For full architecture and design diagrams, see the `descaling program project.docx` file in the repo.
+> For full architecture and design diagrams, see the `descaling program project final.docx` file in the repo.
 
 ---
 
@@ -48,8 +48,6 @@ This system was developed as part of a Software Engineering course project. It s
    ```
 2. Open the project in your IDE.
 3. Run `Main.java` to start the console version.
-4. *(Optional)* Run `MainGUI.java` for the JavaFX GUI version (requires JavaFX support).
-
 ---
 
 ## 🧪 Testing
@@ -61,9 +59,8 @@ Manual test cases have been implemented and executed. All results are documented
 ## 📄 Documentation
 
 The full project documentation is provided in:
-- `descaling program project.docx` – full report (requirements, architecture, test plan)
-- `descaling program project.pdf` – formatted version
-- `Declaration_of_Originality.pdf` – signed declaration
+- `descaling program project final.docx` – full report (requirements, architecture, test plan)
+- `Erklärung.pdf` – signed declaration
 
 ---
 
